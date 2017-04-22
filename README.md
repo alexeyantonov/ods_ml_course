@@ -1,5 +1,8 @@
 # ods_ml_course
 
+### github for the course
+https://github.com/Yorko/mlcourse_open
+
 ### week 01
 https://habrahabr.ru/company/ods/blog/322626/
 
@@ -18,8 +21,11 @@ https://habrahabr.ru/company/ods/blog/324402/
 ### week 06
 https://habrahabr.ru/company/ods/blog/325422/
 
+### week 07
+https://habrahabr.ru/company/ods/blog/325654/
 
-
+### week 08
+https://habrahabr.ru/company/ods/blog/326418/
 
 
 
@@ -41,3 +47,9 @@ https://habrahabr.ru/company/avito/blog/325632/
 https://habrahabr.ru/company/avito/blog/325632/
 ### code
 https://www.kaggle.com/ceperaang/dstl-satellite-imagery-feature-detection/lb-0-42-ultimate-full-solution-run-on-your-hw
+
+### Библиотека глубокого обучения Tensorflow
+https://habrahabr.ru/company/ods/blog/324898/
+
+### Библиотеки для глубокого обучения: Keras
+https://habrahabr.ru/company/ods/blog/325432/
