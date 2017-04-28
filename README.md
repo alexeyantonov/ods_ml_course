@@ -1,6 +1,6 @@
-# ods_ml_course
+# ods ml course 2017
 
-### github for the course
+## github for the course
 https://github.com/Yorko/mlcourse_open
 
 ### week 01
@@ -26,6 +26,10 @@ https://habrahabr.ru/company/ods/blog/325654/
 
 ### week 08
 https://habrahabr.ru/company/ods/blog/326418/
+
+### week 09
+https://habrahabr.ru/company/ods/blog/327242/
+
 
 
 
@@ -53,3 +57,6 @@ https://habrahabr.ru/company/ods/blog/324898/
 
 ### Библиотеки для глубокого обучения: Keras
 https://habrahabr.ru/company/ods/blog/325432/
+
+### PyMC3 — MCMC и не только
+https://habrahabr.ru/company/ods/blog/322716/
